@@ -1,0 +1,48 @@
+ 
+/*
+  ========================================
+  Primary header
+  ========================================
+*/
+
+.logo {
+    border-top: 4px solid #0bfc2b70;
+    padding: 40px 0 22px 40px;
+    float: left;
+    margin-top: -10px;
+  }
+  .container {
+    margin: 0 135px;
+  }
+  .container_2 {
+    margin-top:120px;
+    padding-left: 50px;
+    padding-right: 30px;
+    width: 960px;
+  }
+  .container_3 {
+    margin-top: 60px;;
+    padding-left: 60px;
+    padding-right: 30px;
+    width: 960px;
+  }
+  /*
+  ========================================
+  Buttons
+  ========================================
+*/
+
+.btn {
+    border-radius: 5px;
+    display: inline-block;
+    margin: 0;
+  }
+  .btn-alt {
+    border: 1px solid #dfe2e5;
+    padding: 10px 60px;
+  }
+  .hero {
+      padding: 60px;
+      display: inline-flex;
+  }
+  
